@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\n\ Class\ for\ vehicle.\n\ \n\ @author\ \ Shirley\ Ohara\ Tel\u00E9maco\ de\ Freitas\ (shirleyohara@ufrn.edu.br)\n\ @version\ 27.08.2017\n
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment2.text=\n\ Return\ the\ ID\ of\ the\ vehicle.\n\ @return\ The\ ID\ of\ the\ vehicle.\n
+comment3.params=
+comment3.target=java.lang.String\ getLocation()
+comment3.text=\n\ Return\ the\ location\ of\ the\ vehicle.\n\ @return\ The\ location\ of\ the\ vehicle.\n
+comment4.params=
+comment4.target=java.lang.String\ getDestination()
+comment4.text=\n\ Return\ the\ destination\ of\ the\ vehicle.\n\ @return\ The\ destination\ of\ the\ vehicle.\n
+comment5.params=
+comment5.target=java.lang.String\ getStatus()
+comment5.text=\n\ Return\ the\ status\ of\ this\ taxi.\n\ @return\ The\ status.\n
+comment6.params=destination
+comment6.target=void\ setDestination(java.lang.String)
+comment6.text=\n\ Set\ the\ intented\ destination\ of\ the\ taxi.\n\ @param\ destination\ The\ intended\ destination.\n
+numComments=7
