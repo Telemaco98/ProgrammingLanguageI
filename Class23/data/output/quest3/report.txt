@@ -1,0 +1,6 @@
+Média de idade: 39.25
+Percentual de solteiros: 25.0%
+Percentual de casados: 25.0%
+Percentual de viúvos: 25.0%
+Percentual de divorciados: 25.0%
+Média do grau de aceitação: 7.5
